@@ -82,6 +82,6 @@ A collection of Python, Machine Learning, NLP, Computer Vision, and Data Analysi
 
 📧 **Email:** claraancia123@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/clara-irakoze-a30162402/
+💼 **LinkedIn:** (https://www.linkedin.com/in/ancia-clara-irakoze-a30162402/)
 
 🌍 **Location:** Burundi
